@@ -1,1 +1,5 @@
-// this is new file
+package test;
+
+public class test2 extends test{
+	
+}
